@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Muhammad Panji
+  description: update /etc/apt/sources.list
+  company: howtodojo.com
+  license: BSD
+  min_ansible_version: 2.0
+  github_branch: master
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - xenial
+  galaxy_tags: []
+dependencies: []

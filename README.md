@@ -28,9 +28,11 @@ Example Playbook
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
 
 Muhammad Panji
+=======
+# ansible-apt-sources-list
